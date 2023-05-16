@@ -21,6 +21,7 @@ for email in ['[insert test email]']:
   MAIL = os.getenv("MAIL")
   f = open("newsletter.txt", "r")
   html = f.read()
+  
   """
     <p><i>If you don't like this newsletter, then click <a href='https://vulcanwm.is-a.dev/unsubscribe/{str(emaildoc['_id'])}'>here</a> to unsubscribe to this newsletter!</i></p>
   </div>
