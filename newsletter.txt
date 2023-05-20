@@ -14,7 +14,4 @@
     <p>I will also be redoing my portfolio soon to add some slight changes.</p>
     <p><strong>Thanks for reading this newsletter!</strong></p>
     <br>
-  """
-  """
-    <p><i>If you don't like this newsletter, then click <a href='https://vulcanwm.is-a.dev/unsubscribe/{str(emaildoc['_id'])}'>here</a> to unsubscribe to this newsletter!</i></p>
-  </div>
+</div>
